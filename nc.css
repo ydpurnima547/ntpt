@@ -1,0 +1,94 @@
+ 
+    body{
+      margin:0px;
+      padding:0px;
+    }
+    .logo img{
+     margin: 0px;
+     padding: 0px;
+    }
+    
+.slide{
+  width: 100%;
+}
+.slide p{display: flex;
+  text-align: left;
+  padding:0px;
+  font-style: initial;
+
+}
+.nav {
+    background-color: yellow; 
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  .nav li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+  }
+  .ti img{  height: 50px;
+    width:20px;
+  }
+  h1{ 
+    margin:16px 0px -28px -74px ;
+    text-align: left;
+    font-family: oblique;
+    color: lightpink;
+  }
+  .column{
+    margin: 0px 15px 25px;
+    box-shadow: 0px 1px 3px rgba(0,0,0,0.12) , 0px 1px 2px rgba(0,0,0,0.24);
+    background: #fff;
+    border-radius: 10px;
+  }
+  .container{
+    display: flex;
+    background-color: aliceblue;
+   
+}
+.himg img{
+  position: absolute;
+}
+
+
+
+ .menu{
+
+  display: flex;
+  }
+  .menu p{
+    margin: 40px;
+    font-size: 30px;
+    font-family:  sans-serif;
+    color:lightgreen;
+  }
+  .menu img{
+  height: 100px;
+  width:100%;
+  border: 2px solid black;
+}
+.planet{
+ display: flex;
+}
+.planet img{
+
+  height: 200px;
+  width: 200px;
+  background-position: 0;
+  background-size: cover;
+  font-size: 20px;
+  color:aquamarine;
+  font-weight: 20px;
+  border-radius: 100%;
+}
+.planet h2{
+  
+  margin:16px 0px 0px 360px ;
+  padding: 45px;
+  font-family: oblique;
+  color: darkgrey;
+  
+}
